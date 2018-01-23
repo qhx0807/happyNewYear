@@ -21,8 +21,8 @@
 				</Poptip>
 			</div>
       <div class="menu-href">
-        <a href="http://qhxing.site/page/danmu.html" target="_blank">大屏弹幕</a>
-        <a href="http://qhxing.site/page/vote.html" target="_blank">大屏投票</a>
+        <!-- <a href="http://qhxing.site/page/danmu.html" target="_blank">大屏弹幕</a> -->
+        <a href="http://118.24.25.115/page/vote.html" target="_blank">大屏投票</a>
       </div>
 		</div>
 		<div class="main-page-con" :style="{paddingLeft: hideMenuText ? '60px' : '200px'}">
